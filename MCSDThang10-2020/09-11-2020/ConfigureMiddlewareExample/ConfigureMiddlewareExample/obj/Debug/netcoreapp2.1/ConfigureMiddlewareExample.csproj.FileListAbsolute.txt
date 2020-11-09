@@ -1,0 +1,16 @@
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\bin\Debug\netcoreapp2.1\ConfigureMiddlewareExample.deps.json
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\bin\Debug\netcoreapp2.1\ConfigureMiddlewareExample.runtimeconfig.json
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\bin\Debug\netcoreapp2.1\ConfigureMiddlewareExample.runtimeconfig.dev.json
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\bin\Debug\netcoreapp2.1\ConfigureMiddlewareExample.dll
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\bin\Debug\netcoreapp2.1\ConfigureMiddlewareExample.pdb
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\obj\Debug\netcoreapp2.1\ConfigureMiddlewareExample.csprojAssemblyReference.cache
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\obj\Debug\netcoreapp2.1\ConfigureMiddlewareExample.AssemblyInfoInputs.cache
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\obj\Debug\netcoreapp2.1\ConfigureMiddlewareExample.AssemblyInfo.cs
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\obj\Debug\netcoreapp2.1\ConfigureMiddlewareExample.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\obj\Debug\netcoreapp2.1\ConfigureMiddlewareExample.RazorAssemblyInfo.cache
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\obj\Debug\netcoreapp2.1\ConfigureMiddlewareExample.RazorAssemblyInfo.cs
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\obj\Debug\netcoreapp2.1\ConfigureMiddlewareExample.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\obj\Debug\netcoreapp2.1\ConfigureMiddlewareExample.dll
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\obj\Debug\netcoreapp2.1\ConfigureMiddlewareExample.pdb
+C:\Users\User\Documents\code\NetPro\MCSDThang10-2020\09-11-2020\ConfigureMiddlewareExample\ConfigureMiddlewareExample\obj\Debug\netcoreapp2.1\ConfigureMiddlewareExample.genruntimeconfig.cache
