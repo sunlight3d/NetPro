@@ -1,0 +1,24 @@
+﻿<h1>
+    Haha Product list
+
+</h1>
+@foreach (KeyValuePair<string, int> productPrices in ViewBag.ProductPrices)
+{
+<p>
+    <div>
+        Product name: @productPrices.Key
+    </div>
+    <div>
+        Product price including tax: @(productPrices.Value * 1.2)
+    </div>
+
+</p>
+}
+<p>
+    @foreach (string currentName in ViewBag.EmployeeNames)
+    {
+        <div>
+            @Html.ActionLink(currentName, "Details", new { employeeName = currentName })
+        </div>
+    }
+</p>
